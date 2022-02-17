@@ -109,7 +109,4 @@ function squareNumbersBackwards() {
     return resultado
   }
   console.log(squareNumbersBackwards())
-//call function squareNumbersBackwards
-
-//fazer o teste de mesa agora
 
