@@ -111,4 +111,5 @@ function squareNumbersBackwards() {
   console.log(squareNumbersBackwards())
 //call function squareNumbersBackwards
 
-//fazer o teste de mesa 
+//fazer o teste de mesa agora
+
